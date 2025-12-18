@@ -71,6 +71,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(455, 27);
             textBox2.TabIndex = 3;
+            textBox2.UseSystemPasswordChar = true;
             // 
             // label3
             // 
